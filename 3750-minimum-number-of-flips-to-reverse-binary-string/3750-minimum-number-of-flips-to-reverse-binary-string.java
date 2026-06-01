@@ -8,7 +8,7 @@ class Solution {
                 mis++;
             }
         }
-        int min=Math.min(mis,str.length()-mis);
+
         return mis;
     }
 }
