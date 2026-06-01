@@ -35,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [3827-count-monobit-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3827-count-monobit-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
