@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3827-count-monobit-integers) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
