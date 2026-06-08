@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3174-clear-digits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
