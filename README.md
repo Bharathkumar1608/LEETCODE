@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1486-xor-operation-in-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3827-count-monobit-integers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1486-xor-operation-in-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
