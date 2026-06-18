@@ -129,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
