@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
