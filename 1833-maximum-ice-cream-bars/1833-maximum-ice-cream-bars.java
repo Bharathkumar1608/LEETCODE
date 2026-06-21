@@ -7,6 +7,9 @@ class Solution {
                 coins-=costs[i];
                 count++;
             }
+            else{
+                break;
+            }
         }
         return count;
     }
