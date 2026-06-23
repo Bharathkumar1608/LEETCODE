@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
@@ -204,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0164-maximum-gap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
