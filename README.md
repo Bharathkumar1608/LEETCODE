@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0796-rotate-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0207-course-schedule) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
