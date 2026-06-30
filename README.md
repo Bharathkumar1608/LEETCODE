@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
