@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0162-find-peak-element) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3174-clear-digits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3174-clear-digits) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0994-rotting-oranges) |
