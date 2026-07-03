@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0516-longest-palindromic-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3620-network-recovery-pathways) |
