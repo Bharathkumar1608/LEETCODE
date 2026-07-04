@@ -1,30 +1,41 @@
 class Solution {
     public int minScore(int n, int[][] roads) {
-        List<int[]>[] g = new ArrayList[n + 1];
-        for (int i = 1; i <= n; i++) g[i] = new ArrayList<>();
 
-        for (int[] e : roads) {
-            g[e[0]].add(new int[]{e[1], e[2]});
-            g[e[1]].add(new int[]{e[0], e[2]});
+        List<List<int[]>> adj = new ArrayList<>();
+        for (int i = 0; i <= n; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        for (int[] road : roads) {
+            int u = road[0];
+            int v = road[1];
+            int w = road[2];
+
+            adj.get(u).add(new int[]{v, w});
+            adj.get(v).add(new int[]{u, w});
         }
 
         boolean[] vis = new boolean[n + 1];
-        Queue<Integer> q = new ArrayDeque<>();
+        Queue<Integer> q = new LinkedList<>();
+
         q.offer(1);
         vis[1] = true;
 
         int ans = Integer.MAX_VALUE;
 
         while (!q.isEmpty()) {
-            int u = q.poll();
 
-            for (int[] cur : g[u]) {
-                int v = cur[0], w = cur[1];
-                ans = Math.min(ans, w);
+            int node = q.poll();
 
-                if (!vis[v]) {
-                    vis[v] = true;
-                    q.offer(v);
+            for (int[] edge : adj.get(node)) {
+                int nei = edge[0];
+                int wt = edge[1];
+
+                ans = Math.min(ans, wt);
+
+                if (!vis[nei]) {
+                    vis[nei] = true;
+                    q.offer(nei);
                 }
             }
         }
