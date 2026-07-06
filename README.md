@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0733-flood-fill) |
