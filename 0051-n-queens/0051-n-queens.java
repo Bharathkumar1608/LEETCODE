@@ -1,25 +1,24 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> list=new ArrayList<>();
-
-        int[][] arr=new int[n][n];
-        place(0,arr,list);
-        return list;
+        List<List<String>> ans=new ArrayList<>();
+        int[][] boa=new int[n][n];
+        path(0,ans,n,boa);
+        return ans;
     }
-    static void place(int row,int[][] arr,List<List<String>> list){
-        if(row==arr.length){
-            print(arr,list);
+    static void path(int row,List<List<String>> ans,int n,int[][] boa){
+        if(row==n){
+            print(boa,ans);
             return;
         }
-        for(int col=0;col<arr.length;col++){
-            if(issafe(row,col,arr)){
-                arr[row][col]=1;
-                place(row+1,arr,list);
-                arr[row][col]=0;
+        for(int c=0;c<n;c++){
+            if(issafe(boa,row,c)){
+                boa[row][c]=1;
+                path(row+1,ans,n,boa);
+                boa[row][c]=0;
             }
         }
     }
-    static boolean issafe(int row,int col,int[][] arr){
+    static boolean issafe(int[][] arr,int row,int col){
         int r=row;
         int c=col;
         while(r>=0){
@@ -29,6 +28,7 @@ class Solution {
             r--;
         }
         r=row;
+        c=col;
         while(r>=0 && c>=0){
             if(arr[r][c]==1){
                 return false;
@@ -47,15 +47,20 @@ class Solution {
         }
         return true;
     }
-    static void print(int[][] arr,List<List<String>> list){
-        List<String> ans=new ArrayList<>();
+    static void print(int[][] arr,List<List<String>> ans){
+        ArrayList<String> l=new ArrayList<>();
         for(int i=0;i<arr.length;i++){
             String s="";
-            for(int j=0;j<arr[0].length;j++){
-                s+=(arr[i][j]==1?'Q':'.');
+            for(int j=0;j<arr.length;j++){
+                if(arr[i][j]==1){
+                    s+='Q';
+                }
+                else{
+                    s+='.';
+                }
             }
-            ans.add(s);
+            l.add(s);
         }
-        list.add(ans);
+        ans.add(l);
     }
 }
