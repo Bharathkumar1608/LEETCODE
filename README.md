@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0207-course-schedule) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
