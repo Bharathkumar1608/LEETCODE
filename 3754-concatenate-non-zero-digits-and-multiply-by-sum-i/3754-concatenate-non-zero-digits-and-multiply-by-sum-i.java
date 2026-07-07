@@ -1,18 +1,16 @@
 class Solution {
     public long sumAndMultiply(int n) {
+        int x=0;
         int sum=0;
-        if(n==0){
-            return 0;
+        int i=1;
+        while(n>0){
+            int m=n % 10;
+            n /=10;
+            if(m == 0) continue;
+            sum += m;
+            x += (m * i);
+            i *=10;
         }
-        String s=String.valueOf(n);
-        String ans="";
-        for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            if((ch-'0')!=0){
-                ans+=ch;
-                sum+=(ch-'0');
-            }
-        }
-        return Long.valueOf(ans)*sum;
+        return (long) x * sum;
     }
 }
