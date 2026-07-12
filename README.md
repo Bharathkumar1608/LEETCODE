@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Matrix
