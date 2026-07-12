@@ -10,10 +10,9 @@ class Solution {
                 rank++;
             }
         }
-        int[] res=new int[arr.length];
         for(int i=0;i<arr.length;i++){
-            res[i]=map.get(arr[i]);
+            temp[i]=map.get(arr[i]);
         }
-        return res;
+        return temp;
     }
 }
