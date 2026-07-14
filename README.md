@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
