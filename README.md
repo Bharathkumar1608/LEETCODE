@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
