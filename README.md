@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
