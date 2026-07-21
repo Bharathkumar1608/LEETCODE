@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3174-clear-digits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3174-clear-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3827-count-monobit-integers) |
 ## Math
