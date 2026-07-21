@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
