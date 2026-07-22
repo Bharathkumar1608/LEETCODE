@@ -5,20 +5,20 @@ class Solution {
         }
         return RLE(countAndSay(n-1));
     }
-    public String RLE(String str){
-        StringBuilder sb=new StringBuilder();
-        char[] nums=str.toCharArray();
+    static String RLE(String str){
+        char[] arr=str.toCharArray();
+        char cur=arr[0];
         int count=0;
-        char cur=nums[0];
-        for(char c:nums){
-            if(c==cur){
+        StringBuilder sb=new StringBuilder();
+        for(char ch:arr){
+            if(ch==cur){
                 count++;
             }
             else{
                 sb.append(count);
                 sb.append(cur);
-                cur=c;
                 count=1;
+                cur=ch;
             }
         }
         sb.append(count);
