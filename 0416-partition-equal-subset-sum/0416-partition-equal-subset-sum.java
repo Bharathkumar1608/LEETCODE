@@ -1,28 +1,31 @@
 class Solution {
     public boolean canPartition(int[] nums) {
         int sum=0;
-        for(int x:nums){
-            sum+=x;
+        for(int n:nums){
+            sum+=n;
         }
         if(sum%2!=0){
             return false;
         }
-        Boolean[][] dp=new Boolean[nums.length][(sum/2)+1];
-        return ss(nums,nums.length-1,sum/2,dp);
+        int n=nums.length;
+        int tar=sum/2;
+        Boolean[][] dp=new Boolean[n][tar+1];
+
+        return ac(nums.length-1,nums,tar,dp);
     }
-    static boolean ss(int[] arr,int ind,int t,Boolean[][] dp){
-        if(t==0){
+    static boolean ac(int ind,int[] nums,int tar,Boolean[][] dp){
+        if(tar==0){
             return true;
         }
         if(ind<0){
             return false;
         }
-        if(dp[ind][t]!=null){
-            return dp[ind][t];
+        if(tar<0){
+            return false;
         }
-        if(arr[ind]>t){
-            return dp[ind][t]=ss(arr,ind-1,t,dp);
+        if(dp[ind][tar]!=null){
+            return dp[ind][tar];
         }
-        return dp[ind][t]=ss(arr,ind-1,t-arr[ind],dp)|| ss(arr,ind-1,t,dp);
+        return dp[ind][tar]=(ac(ind-1,nums,tar,dp)||ac(ind-1,nums,tar-nums[ind],dp));
     }
 }
