@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0733-flood-fill) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
