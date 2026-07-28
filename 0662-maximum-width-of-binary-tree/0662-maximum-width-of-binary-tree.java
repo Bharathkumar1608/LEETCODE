@@ -14,13 +14,14 @@
  * }
  */
 class Solution {
-    int ans=0;
+    static int ans=0;
     public int widthOfBinaryTree(TreeNode root) {
+        ans=0;
         ArrayList<Long> list=new ArrayList<>();
         dfs(root,0,list,0);
         return ans;
     }
-    void dfs(TreeNode root,long ind,ArrayList<Long> arr,int level){
+    static void dfs(TreeNode root,long ind,ArrayList<Long> arr,int level){
         if(root==null){
             return;
         }
