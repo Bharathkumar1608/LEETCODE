@@ -16,7 +16,6 @@
 class Solution {
     int ans=0;
     public int widthOfBinaryTree(TreeNode root) {
-        ans=0;
         ArrayList<Long> list=new ArrayList<>();
         dfs(root,0,list,0);
         return ans;
