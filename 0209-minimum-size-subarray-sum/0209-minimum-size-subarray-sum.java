@@ -6,9 +6,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             cs+=nums[i];
             while(cs>=target){
-                if(cs>=target){
                     minlen=Math.min(i-l+1,minlen);
-                }
                 cs-=nums[l];
                 l++;
             }
