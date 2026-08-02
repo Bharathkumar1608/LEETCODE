@@ -6,24 +6,24 @@ class Solution {
         return RLE(countAndSay(n-1));
     }
     static String RLE(String str){
-        char[] arr=str.toCharArray();
-        char cur=arr[0];
-        int count=0;
         StringBuilder sb=new StringBuilder();
+        char[] arr=str.toCharArray();
+        int c=0;
+        char cur=str.charAt(0);
         for(char ch:arr){
-            if(ch==cur){
-                count++;
+            if(cur==ch){
+                c++;
             }
             else{
-                sb.append(count);
+                sb.append(c);
                 sb.append(cur);
-                count=1;
                 cur=ch;
+                c=1;
             }
         }
-        sb.append(count);
+        sb.append(c);
         sb.append(cur);
-
         return sb.toString();
+
     }
 }
