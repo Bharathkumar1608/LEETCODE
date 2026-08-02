@@ -1,4 +1,4 @@
-//translated by AI
+
 class Solution {
     public boolean stoneGame(int[] piles) {
         int n = piles.length;
