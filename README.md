@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Matrix
