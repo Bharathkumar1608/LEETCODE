@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -483,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
