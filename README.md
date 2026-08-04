@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0322-coin-change) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0912-sort-an-array) |
