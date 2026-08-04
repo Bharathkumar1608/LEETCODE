@@ -32,11 +32,11 @@ class Solution {
             return dp[ind][target];
         }
         int notpick=rec(ind-1,arr,target,dp);
-        int pick=Integer.MAX_VALUE;
+        //int pick=Integer.MAX_VALUE;
         int ans=rec(ind,arr,target-arr[ind],dp);
         if(ans!=Integer.MAX_VALUE){
-            pick=ans+1;
+            ans=ans+1;
         }
-        return dp[ind][target]=Math.min(pick,notpick);
+        return dp[ind][target]=Math.min(ans,notpick);
     }
 }
