@@ -7,35 +7,36 @@ class Solution {
                 dp[i][j]=-1;
             }
         }
-        int ans=ac(coins,n-1,amount,dp);
+        int ans=rec(n-1,coins,amount,dp);
         if(ans==Integer.MAX_VALUE){
             return -1;
         }
         return ans;
     }
-    static int ac(int[] arr,int ind,int tar,int[][] dp){
-
+    static int rec(int ind,int[] arr,int target,int[][] dp){
         if(ind==0){
-            if(tar%arr[ind]==0){
-                return tar/arr[ind];
+            if(target%arr[ind]==0){
+                return target/arr[ind];
             }
             else{
                 return Integer.MAX_VALUE;
             }
         }
-        if(dp[ind][tar]!=-1){
-            return dp[ind][tar];
+        if(target==0){
+            return 0;
         }
-
-        int nottake=0+ac(arr,ind-1,tar,dp);
-        int take=Integer.MAX_VALUE;
-        if(arr[ind]<=tar){
-            int ans=ac(arr,ind,tar-arr[ind],dp);
-            if(ans!=Integer.MAX_VALUE){
-                take=1+ans;
-            }
+        if(target<0){
+            return Integer.MAX_VALUE;
         }
-
-        return dp[ind][tar]=Math.min(take,nottake);
+        if(dp[ind][target]!=-1){
+            return dp[ind][target];
+        }
+        int notpick=rec(ind-1,arr,target,dp);
+        int pick=Integer.MAX_VALUE;
+        int ans=rec(ind,arr,target-arr[ind],dp);
+        if(ans!=Integer.MAX_VALUE){
+            pick=ans+1;
+        }
+        return dp[ind][target]=Math.min(pick,notpick);
     }
 }
