@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
