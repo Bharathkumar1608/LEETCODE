@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -561,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
