@@ -7,7 +7,7 @@ class Solution {
         return list;
     }
     static void rec(int ind,int[] nums,List<List<Integer>> list,ArrayList<Integer> arr){
-        if(ind==nums.length){
+        if(ind>=nums.length){
             list.add(new ArrayList<>(arr));
             return;
         }
