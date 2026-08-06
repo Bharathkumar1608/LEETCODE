@@ -5,7 +5,7 @@ class Solution {
                 return i;
             }
         }
-        return 0;
+        return -1;
     }
     static int pro(int n){
         if(n<=9){
