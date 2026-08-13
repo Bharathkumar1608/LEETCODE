@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3174-clear-digits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3174-clear-digits) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -624,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
