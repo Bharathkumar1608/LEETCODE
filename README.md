@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0078-subsets) |
