@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
