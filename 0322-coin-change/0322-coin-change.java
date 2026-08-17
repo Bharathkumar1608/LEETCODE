@@ -1,11 +1,9 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int n=coins.length;
+        int n =coins.length;
         int[][] dp=new int[n][amount+1];
         for(int i=0;i<n;i++){
-            for(int j=0;j<=amount;j++){
-                dp[i][j]=-1;
-            }
+            Arrays.fill(dp[i],-1);
         }
         int ans=rec(n-1,coins,amount,dp);
         if(ans==Integer.MAX_VALUE){
@@ -13,30 +11,28 @@ class Solution {
         }
         return ans;
     }
-    static int rec(int ind,int[] arr,int target,int[][] dp){
-        if(ind==0){
-            if(target%arr[ind]==0){
-                return target/arr[ind];
-            }
-            else{
-                return Integer.MAX_VALUE;
-            }
-        }
-        if(target==0){
+    static int rec(int ind,int[] arr,int tar,int[][] dp){
+        if(tar==0){
             return 0;
         }
-        if(target<0){
+        if(ind==0){
+            if(tar%arr[ind]==0){
+                return tar/arr[ind];
+            }
             return Integer.MAX_VALUE;
         }
-        if(dp[ind][target]!=-1){
-            return dp[ind][target];
+        if(tar<0){
+            return Integer.MAX_VALUE;
         }
-        int notpick=rec(ind-1,arr,target,dp);
-        //int pick=Integer.MAX_VALUE;
-        int pick=rec(ind,arr,target-arr[ind],dp);
+        if(dp[ind][tar]!=-1){
+            return dp[ind][tar];
+        }
+        int pick=rec(ind,arr,tar-arr[ind],dp);
         if(pick!=Integer.MAX_VALUE){
-            pick=pick+1;
+            pick++;
         }
-        return dp[ind][target]=Math.min(pick,notpick);
+        int notpick=rec(ind-1,arr,tar,dp);
+
+        return dp[ind][tar]=Math.min(pick,notpick);
     }
 }
