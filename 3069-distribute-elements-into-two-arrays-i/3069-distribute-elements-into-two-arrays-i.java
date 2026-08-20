@@ -14,8 +14,8 @@ class Solution {
 
         int[] res = new int[nums.length];
         int idx = 0;
-        for (int x : arr1) res[idx++] = x;
-        for (int x : arr2) res[idx++] = x;
-        return res;
+        for (int x : arr1) nums[idx++] = x;
+        for (int x : arr2) nums[idx++] = x;
+        return nums;
     }
 }
