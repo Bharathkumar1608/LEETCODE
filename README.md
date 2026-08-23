@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1927-sum-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Longest Common Subsequence
 |  |
