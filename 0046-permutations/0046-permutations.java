@@ -6,20 +6,20 @@ class Solution {
     }
     static void rec(int ind,int[] arr,List<List<Integer>> list){
         if(ind==arr.length){
-            ArrayList<Integer> dummy=new ArrayList<>();
-            for(int i:arr){
-                dummy.add(i);
+            List<Integer> al=new ArrayList<>();
+            for(int num:arr){
+                al.add(num);
             }
-            list.add(dummy);
+            list.add(al);
             return;
         }
         for(int i=ind;i<arr.length;i++){
-            swap(ind,i,arr);
+            swap(arr,i,ind);
             rec(ind+1,arr,list);
-            swap(ind,i,arr);
+            swap(arr,i,ind);
         }
     }
-    static void swap(int i,int j,int[] arr){
+    static void swap(int[] arr,int i,int j){
         int temp=arr[i];
         arr[i]=arr[j];
         arr[j]=temp;
