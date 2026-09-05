@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0207-course-schedule) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Number Theory
 |  |
@@ -777,4 +781,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1148-article-views-i) |
 | [1407-top-travellers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1407-top-travellers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
