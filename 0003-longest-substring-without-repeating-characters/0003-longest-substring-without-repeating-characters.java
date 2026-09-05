@@ -3,14 +3,15 @@ class Solution {
         HashSet<Character> set=new HashSet<>();
         int l=0;
         int max=0;
-        for(int r=0;r<s.length();r++){
-            char ch=s.charAt(r);
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
             while(set.contains(ch)){
-                set.remove(s.charAt(l));
+                char lc=s.charAt(l);
+                set.remove(lc);
                 l++;
             }
             set.add(ch);
-            max=Math.max(max,r-l+1);
+            max=Math.max(max,i-l+1);
         }
         return max;
     }
