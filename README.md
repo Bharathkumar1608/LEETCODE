@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1148-article-views-i) |
 | [1407-top-travellers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1407-top-travellers) |
+| [1683-invalid-tweets](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Lifting
 |  |
