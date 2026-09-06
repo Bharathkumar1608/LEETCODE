@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1872-stone-game-viii) |
