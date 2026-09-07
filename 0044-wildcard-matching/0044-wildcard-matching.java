@@ -5,7 +5,7 @@ class Solution {
         Boolean[][] dp=new Boolean[m][n];
         return rec(s,p,m-1,n-1,dp);
     }
-    static boolean rec(String s1,String s2,int i,int j,Boolean[][] dp){
+    static boolean rec(String s,String p,int i,int j,Boolean[][] dp){
         if(i<0 && j<0){
             return true;
         }
@@ -13,8 +13,8 @@ class Solution {
             return false;
         }
         if(i<0){
-            for(int p=0;p<=j;p++){
-                if(s2.charAt(p)!='*'){
+            for(int x=0;x<=j;x++){
+                if(p.charAt(x)!='*'){
                     return false;
                 }
             }
@@ -23,12 +23,12 @@ class Solution {
         if(dp[i][j]!=null){
             return dp[i][j];
         }
-        if(s1.charAt(i)==s2.charAt(j) || s2.charAt(j)=='?'){
-            return dp[i][j]=rec(s1,s2,i-1,j-1,dp);
+        if(s.charAt(i)==p.charAt(j) || p.charAt(j)=='?'){
+            return dp[i][j]=rec(s,p,i-1,j-1,dp);
         }
-        if(s2.charAt(j)=='*'){
-            return dp[i][j]=(rec(s1,s2,i-1,j,dp) || rec(s1,s2,i,j-1,dp));
+        if(p.charAt(j)=='*'){
+            return dp[i][j]=(rec(s,p,i-1,j,dp)|| rec(s,p,i,j-1,dp));
         }
-        return dp[i][j]=false;
+        return false;
     }
 }
