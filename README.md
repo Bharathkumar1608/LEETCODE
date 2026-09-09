@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3174-clear-digits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
 |  |
 | ------- |
