@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
