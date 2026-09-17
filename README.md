@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
