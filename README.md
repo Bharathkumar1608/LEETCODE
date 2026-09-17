@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0229-majority-element-ii) |
+| [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0912-sort-an-array) |
+| [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -453,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1143-longest-common-subsequence) |
