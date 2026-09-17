@@ -1,18 +1,20 @@
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
-        int gl=g.length;
-        int sl=s.length;
-        int[][] dp=new int[gl+1][sl+1];
-        for(int i=1;i<=gl;i++){
-            for(int j=1;j<=sl;j++){
-                if(g[i-1]<=s[j-1]){
-                    dp[i][j]=1+dp[i-1][j-1];
-                }
-                else{
-                    dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
-                }
+        Arrays.sort(g);
+        Arrays.sort(s);
+        int m=g.length-1;
+        int n=s.length-1;
+        int cnt=0;
+        while(m>=0 && n>=0){
+            if(g[m]<=s[n]){
+                m--;
+                n--;
+                cnt++;
+            }
+            else{
+                m--;
             }
         }
-        return dp[gl][sl];
+        return cnt;
     }
 }
