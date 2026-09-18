@@ -17,7 +17,10 @@ class Solution {
         if(tar==0){
             return 0;
         }
-        if(ind<0){
+        if(ind<=0){
+            if(tar%arr[ind]==0){
+                return tar/arr[ind];
+            }
             return Integer.MAX_VALUE;
         }
         if(tar<0){
