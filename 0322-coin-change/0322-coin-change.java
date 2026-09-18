@@ -1,17 +1,19 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int n =coins.length;
+        Arrays.sort(coins);
+        int n=coins.length;
         int[][] dp=new int[n][amount+1];
+
         for(int i=0;i<n;i++){
             Arrays.fill(dp[i],-1);
+        } 
+        int ans=rec(coins,n-1,amount,dp);
+        if(ans!=Integer.MAX_VALUE){
+            return ans;
         }
-        int ans=rec(n-1,coins,amount,dp);
-        if(ans==Integer.MAX_VALUE){
-            return -1;
-        }
-        return ans;
+        return -1;
     }
-    static int rec(int ind,int[] arr,int tar,int[][] dp){
+    static int rec(int[] arr,int ind,int tar,int[][] dp){
         if(tar==0){
             return 0;
         }
@@ -27,12 +29,11 @@ class Solution {
         if(dp[ind][tar]!=-1){
             return dp[ind][tar];
         }
-        int pick=rec(ind,arr,tar-arr[ind],dp);
-        if(pick!=Integer.MAX_VALUE){
-            pick++;
+        int np=rec(arr,ind-1,tar,dp);
+        int pk=rec(arr,ind,tar-arr[ind],dp);
+        if(pk!=Integer.MAX_VALUE){
+            pk+=1;
         }
-        int notpick=rec(ind-1,arr,tar,dp);
-
-        return dp[ind][tar]=Math.min(pick,notpick);
+        return dp[ind][tar]=Math.min(np,pk);
     }
 }
