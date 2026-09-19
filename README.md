@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0072-edit-distance) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0072-edit-distance) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0040-combination-sum-ii) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Minimax
 |  |
