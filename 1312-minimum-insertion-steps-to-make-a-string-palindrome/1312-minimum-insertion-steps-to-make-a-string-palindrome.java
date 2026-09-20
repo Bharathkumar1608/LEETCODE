@@ -7,16 +7,16 @@ class Solution {
         }
         return rec(0,n-1,s,dp);
     }
-    static int rec(int l,int r,String s,int[][] dp){
-        if(l>=r){
+    static int rec(int s,int e,String str,int[][] dp){
+        if(s>=e){
             return 0;
         }
-        if(dp[l][r]!=-1){
-            return dp[l][r];
+        if(dp[s][e]!=-1){
+            return dp[s][e];
         }
-        if(s.charAt(l)==s.charAt(r)){
-            return dp[l][r]=rec(l+1,r-1,s,dp);
+        if(str.charAt(s)==str.charAt(e)){
+            return dp[s][e]=rec(s+1,e-1,str,dp);
         }
-        return dp[l][r]=Math.min(1+rec(l,r-1,s,dp),1+rec(l+1,r,s,dp));
+        return dp[s][e]=Math.min(1+rec(s+1,e,str,dp),1+rec(s,e-1,str,dp));
     }
 }
