@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
