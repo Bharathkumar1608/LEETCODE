@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Minimax
 |  |
 | ------- |
