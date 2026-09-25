@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0200-number-of-islands) |
