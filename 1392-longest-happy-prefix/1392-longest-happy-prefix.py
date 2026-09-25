@@ -3,9 +3,9 @@ class Solution:
         n = len(s)
         cnt = 0
 
-        for i in range(1, n):
+        for i in range(n - 1, 0, -1):
             s_str = s[:i]
 
             if s.endswith(s_str):
-                cnt =  i
-        return s[:cnt]
+                return s[:i]
+        return ""
