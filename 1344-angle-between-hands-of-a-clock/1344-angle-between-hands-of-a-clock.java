@@ -1,3 +1,4 @@
+
 class Solution {
     public double angleClock(int hour, int minutes) {
         double ma=6.0*minutes;
