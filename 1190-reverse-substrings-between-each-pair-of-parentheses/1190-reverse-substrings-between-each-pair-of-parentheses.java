@@ -6,10 +6,10 @@ class Solution {
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
             if(ch==')'){
-                StringBuilder str=new StringBuilder();
+                String str="";
                 while(!st.isEmpty() && st.peek()!='('){
                     char rc=st.pop();
-                    str.append(rc);
+                    str+=rc;
                 }
                 st.pop();
                 for(int j=0;j<str.length();j++){
