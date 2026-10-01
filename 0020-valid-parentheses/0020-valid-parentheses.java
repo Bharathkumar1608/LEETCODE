@@ -8,16 +8,17 @@ class Solution {
         int n=s.length();
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
-            if(ch=='(' || ch=='{' || ch=='['){
-                st.push(ch);
-            }
-            else{
+            if(ch==')' || ch=='}' || ch==']'){
+                
                 if(!st.isEmpty() && st.peek()==map.get(ch)){
                     st.pop();
                 }
                 else{
                     return false;
                 }
+            }
+            else{
+                st.push(ch);
             }
         }
         if(st.isEmpty()){
