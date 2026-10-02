@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1219-path-with-maximum-gold) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bharathkumar1608/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
