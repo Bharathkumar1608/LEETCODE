@@ -3,9 +3,9 @@ class Solution {
         int max=0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
-                //if(grid[i][j]!=0){
+                if(grid[i][j]!=0){
                     max=Math.max(max,rec(grid,i,j));
-                //}
+                }
             }
         }
         return max;
