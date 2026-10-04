@@ -2,8 +2,8 @@ class Solution {
     public boolean checkValidString(String s) {
         int i=0;
         int j=0;
-        for(int p=0;p<s.length();p++){
-            char ch=s.charAt(p);
+        for(int x=0;x<s.length();x++){
+            char ch=s.charAt(x);
             if(ch=='('){
                 i++;
                 j++;
