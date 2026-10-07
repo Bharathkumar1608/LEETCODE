@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Bharathkumar1608/LEETCODE/tree/master/1219-path-with-maximum-gold) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bharathkumar1608/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Bharathkumar1608/LEETCODE/tree/master/0547-number-of-provinces) |
